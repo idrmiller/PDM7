@@ -7,6 +7,13 @@ Course materials for [General Assembly's Product Managment course](https://gener
 **Instructor:** [David R. Miller] (https://www.linkedin.com/in/drmiller80)
 
 ### Welcome to Product Management 10-Week Course
+This course is designed to take the student through the full life cycle of product development and management. Product Management is a multi-disciplinary role that requires business skills (marketing, finance, business model etc.), technical understanding (the level of technical aptitude varies based on industry, sector, and role for the PM), deep knowledge of the user/customer (this concept is more holistic nature and references knowledge from UX/UI, persona development, user interviews, etc.).
+
+This Product Management course will provide the skills: 
+* To understand your users and analyze the market to build a product that is valuable, viable, and useable.
+* Create a roadmap and effectively manage communication with all stakeholders
+* Develop metrics to measure your success and make tough decisions
+* This is just to name a few
 
 ### Course Ouline
 
