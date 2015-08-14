@@ -3,6 +3,7 @@
 Course materials for [General Assembly's Product Managment course](https://generalassemb.ly/education/product-management/washington-dc) in Washington, DC starting 08/17/2015 - 10/26/2015.
 
 **Instructor:** [Andy Acs] (https://www.linkedin.com/in/andyacs)
+
 **Instructor:** [David R. Miller] (https://www.linkedin.com/in/drmiller80)
 
 ### Welcome to Product Management 10-Week Course
