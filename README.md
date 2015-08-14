@@ -3,13 +3,13 @@
 Course materials for [General Assembly's Product Managment course](https://generalassemb.ly/education/product-management/washington-dc) in Washington, DC starting 08/17/2015 - 10/26/2015.
 
 **Instructor:** 
-[Andy Acs] (https://www.linkedin.com/in/andyacs)
-Office Hours: TBD
-Method of Communication: Email
+[Andy Acs] (https://www.linkedin.com/in/andyacs)<br>
+**Office Hours:** TBD <br>
+**Method of Communication:** Email
 
-**Instructor:** [David R. Miller] (https://www.linkedin.com/in/drmiller80)
-Office Hours: TBD
-Method of Communication: Email
+**Instructor:** [David R. Miller] (https://www.linkedin.com/in/drmiller80) <br>
+**Office Hours:** TBD <br>
+**Method of Communication:** Email
 
 ### Welcome to Product Management 10-Week Course
 This course is designed to take the student through the full life cycle of product development and management. Product Management is a multi-disciplinary role that requires business skills (marketing, finance, business model etc.), technical understanding (the level of technical aptitude varies based on industry, sector, and role for the PM), deep knowledge of the user/customer (this concept is more holistic nature and references knowledge from UX/UI, persona development, user interviews, etc.).
