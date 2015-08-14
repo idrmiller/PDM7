@@ -19,14 +19,14 @@ This Product Management course will provide the skills:
 
 Monday | Wednesday
 --- | ---
-8/17: | 8/19:
-8/24: | 8/26:
-8/31: | 9/02:
-9/07: **Holiday ???** | 9/09:
-9/14: | 9/16:
-9/21: | 9/23:
-9/28: | 9/30:
-10/05: | 10/07:
-10/12: | 10/14:
-10/19: | 10/21:
+8/17: Introduction to Product Management | 8/19: The Product Development Process
+8/24: Customer Development | 8/26: Testing & Validating/Minimum Viable Product
+8/31: Business Model Design | 9/02: Market Research
+9/07: Personals & Empathy Maps **Holiday ???** | 9/09: Features & User Stories
+9/14: Wireframing & Storyboarding | 9/16: **Mid-Course Presentation**
+9/21: Metrics | 9/23: Pricing & Financial Modeling
+9/28: **Flex Session** | 9/30: Technology for Product Managers
+10/05: Product Roadmap | 10/07: Project Management & Product Specs
+10/12: Presenting your Product | 10/14: Final Presentations
+10/19: Moving forward on your PM Path | 10/21:
 10/26: | 10/28: **Last Class**
