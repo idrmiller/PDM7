@@ -50,8 +50,9 @@ Monday | Wednesday
 10/26: | 10/28: _**Last Class**_
 
 ### First things First
+* **Pick a project idea** for the class. This essay by Paul Graham, ["How to Get Startup Ideas"](http://paulgraham.com/startupideas.html) will help. 
 * Once you receive an email invitation from Slack, join our "gadcpdm7" team and add your photo.
-* Review course dates and advise instructors of planned missed days. (No more than 3 absentees for the course)
+* Review course dates and advise instructors of planned missed days. (No more than 2 absentees for the course)
 * Create an account on [Github] (https://github.com) website. This will allow you to stay up todate on the added course documentation that the instructors will post on the [Github PDM7 Repository] (https://github.com/idrmiller/PDM7).
 * Review course outline and get ready for the grand adventure of product management. 
 
@@ -61,10 +62,11 @@ Monday | Wednesday
 - Feedback will be provide through Slack, in-class discussions, peer reviews, office hours, and one-on-one sceduled discussions.
 - Reading assignments will be assigned each week or for each class.
 - In an agile team fashion, we will have select a student conduct a 5 minute stand-up at the start of each class to provide updates on  Success, Roadblocks,  Lessons Learned, and Next steps.
-- The last 5 minutes of class will be dedicated to students completing the [Class Feedback Form](http://bit.ly/1J95D6p).
+- The last 5 minutes of class will be dedicated to students completing the [Instructor Class Feedback Form](http://bit.ly/1J95D6p).
 
 ### Submission Forms
-* [Class Feedback Form] (http://bit.ly/1J95D6p)
+* [Instructor Class Feedback Form] (http://bit.ly/1J95D6p)
+* [GA Class Exit Form] (HTTP://GA.CO/PDMTICKET)
 * Homework and project submissions
 
 
@@ -73,4 +75,28 @@ ___
 ##Unit 1: Product Managment Fundementals
 
 ###Class 1: Introduction to Product Management
+* Welcome from General Assembly staff
+* Class overview
+* Introduction to product management
+* Discuss the end of course project
+* Wrap up: Slack tour, Github overview, submission forms
 
+####Homework:
+* Reading:
+  * [Good Product Manager/ Bad Product Manager](http://benhorowitz.files.wordpress.com/2010/05/good-product-manager.pdf)
+  * [Product Management @ Microsoft](http://blogs.msdn.com/b/techtalk/archive/2005/12/16/504872.aspx)
+  * [Startup Project Ideas](http://paulgraham.com/startupideas.html)
+  * [Featuers vs. Benefits](https://medium.com/early-stage/benefits-vs-features-e2b5c0d3c361)
+
+
+
+
+
+___
+<!--
+### Reading Material
+* [Top 12 Product Management Mistakes](http://www.khoslaventures.com/wp-content/uploads/The-Top-12-Product-Management-Mistakes.pdf)
+-->
+
+
+___
