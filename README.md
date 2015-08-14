@@ -64,12 +64,21 @@ Monday | Wednesday
 - In an agile team fashion, we will have select a student conduct a 5 minute stand-up at the start of each class to provide updates on  Success, Roadblocks,  Lessons Learned, and Next steps.
 - The last 5 minutes of class will be dedicated to students completing the [Instructor Class Feedback Form](http://bit.ly/1J95D6p).
 
+### Tools
+- Survey's & Forms:
+  - Free: [Google forms](https://www.google.com/forms/about/)
+  
+- Wireframing tool:
+ - Free: [Google Slides]
+ - Free: [Framebox](http://framebox.org/)
+ - Free: Mac computers: [Keynote](https://www.apple.com/mac/keynote/)
+ - Trial: Free for (30) days.[Balsamiq](https://balsamiq.com/products/mockups/)
+
 ### Submission Forms
 * [Instructor Class Feedback Form] (http://bit.ly/1J95D6p)
 * [GA Class Exit Form] (HTTP://GA.CO/PDMTICKET)
 * Homework and project submissions
-
-
+<br>
 ___
 
 ##Unit 1: Product Managment Fundementals
@@ -101,6 +110,8 @@ ___
 <!--
 ### Reading Material
 * [Top 12 Product Management Mistakes](http://www.khoslaventures.com/wp-content/uploads/The-Top-12-Product-Management-Mistakes.pdf)
+* 
+
 -->
 
 
