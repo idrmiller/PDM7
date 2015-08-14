@@ -66,3 +66,10 @@ Monday | Wednesday
 * [Class Feedback Form] (http://bit.ly/1J95D6p)
 * Homework and project submissions
 
+
+___
+
+##Unit 1: Product Managment Fundementals
+
+###Class 1: Introduction to Product Management
+
