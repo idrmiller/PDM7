@@ -1,10 +1,15 @@
-## PDM7 Course Repository
+# PDM7 Course Repository
 
 Course materials for [General Assembly's Product Managment course](https://generalassemb.ly/education/product-management/washington-dc) in Washington, DC starting 08/17/2015 - 10/26/2015.
 
-**Instructor:** [Andy Acs] (https://www.linkedin.com/in/andyacs)
+**Instructor:** 
+[Andy Acs] (https://www.linkedin.com/in/andyacs)
+Office Hours: TBD
+Method of Communication: Email
 
 **Instructor:** [David R. Miller] (https://www.linkedin.com/in/drmiller80)
+Office Hours: TBD
+Method of Communication: Email
 
 ### Welcome to Product Management 10-Week Course
 This course is designed to take the student through the full life cycle of product development and management. Product Management is a multi-disciplinary role that requires business skills (marketing, finance, business model etc.), technical understanding (the level of technical aptitude varies based on industry, sector, and role for the PM), deep knowledge of the user/customer (this concept is more holistic nature and references knowledge from UX/UI, persona development, user interviews, etc.).
@@ -19,9 +24,8 @@ This Product Management course will provide the skills:
 ---|---
 ![Image of Ben Horowitz](https://github.com/idrmiller/PDM7/blob/master/imgs/BH_Photo.png) | _A good product manager is the CEO of the product. A good product manager takes full responsibility and measures themselves in terms of the success of the product. They are responsible for right product/right time and all that entails. Bad product managers have lots of excuses._    **---Ben Horowitz**
 <br>
-___
-
-
+<br>
+<br>
 ### Course Ouline
 
 Monday | Wednesday
@@ -47,10 +51,18 @@ Monday | Wednesday
 ### First things First
 * Once you receive an email invitation from Slack, join our "gadcpdm7" team and add your photo.
 * Review course dates and advise instructors of planned missed days. (No more than 3 absentees for the course)
-* Create an account on [Github] (https://github.com) website. This will allow you to stay up todate on the added course documentation that the instructors will post on the github PDM7 repo.
+* Create an account on [Github] (https://github.com) website. This will allow you to stay up todate on the added course documentation that the instructors will post on the [Github PDM7 Repository] (https://github.com/idrmiller/PDM7).
 * Review course outline and get ready for the grand adventure of product management. 
 
+### General Information
+- Homework will be focused on the required deliverables for the students final assignment
+- Instructors will encourage peer review of homework, (method TBD)
+- Feedback will be provide through Slack, in-class discussions, peer reviews, office hours, and one-on-one sceduled discussions.
+- Reading assignments will be assigned each week or for each class.
+- In an agile team fashion, we will have select a student conduct a 5 minute stand-up at the start of each class to provide updates on  Success, Roadblocks,  Lessons Learned, and Next steps.
+- The last 5 minutes of class will be dedicated to students completing the [Class Feedback Form](http://bit.ly/1J95D6p).
+
 ### Submission Forms
-* Class Feedback Form
+* [Class Feedback Form] (http://bit.ly/1J95D6p)
 * Homework and project submissions
 
