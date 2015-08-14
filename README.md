@@ -15,6 +15,13 @@ This Product Management course will provide the skills:
 * Develop metrics to measure your success and make tough decisions
 * This is just to name a few
 
+| |Quotes by Industry Influencers |
+---|---
+![Image of Ben Horowitz](https://github.com/idrmiller/PDM7/blob/master/imgs/BH_Photo.png) | _A good product manager is the CEO of the product. A good product manager takes full responsibility and measures themselves in terms of the success of the product. They are responsible for right product/right time and all that entails. Bad product managers have lots of excuses._    **---Ben Horowitz**
+<br>
+___
+
+
 ### Course Ouline
 
 Monday | Wednesday
@@ -37,9 +44,5 @@ Monday | Wednesday
 10/19: Moving forward on your PM Path | 10/21:
 10/26: | 10/28: _**Last Class**_
 
-___
 
-| | |
----|---
-![Image of Ben Horowitz](https://github.com/idrmiller/PDM7/blob/master/imgs/BH_Photo.png) | _A good product manager is the CEO of the product. A good product manager takes full responsibility and measures themselves in terms of the success of the product. They are responsible for right product/right time and all that entails. Bad product managers have lots of excuses._    **---Ben Horowitz**
 
