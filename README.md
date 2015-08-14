@@ -39,7 +39,7 @@ Monday | Wednesday
 
 ___
 
+| | |
+---|---
+![Image of Ben Horowitz](https://github.com/idrmiller/PDM7/blob/master/imgs/BH_Photo.png) | _A good product manager is the CEO of the product. A good product manager takes full responsibility and measures themselves in terms of the success of the product. They are responsible for right product/right time and all that entails. Bad product managers have lots of excuses._    **---Ben Horowitz**
 
-
->_A good product manager is the CEO of the product. A good product manager takes full responsibility and measures themselves in terms of the success of the product. They are responsible for right product/right time and all that entails. Bad product managers have lots of excuses._    **---Ben Horowitz** 
-___
