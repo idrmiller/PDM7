@@ -87,6 +87,11 @@ ___
   * [Product Management @ Microsoft](http://blogs.msdn.com/b/techtalk/archive/2005/12/16/504872.aspx)
   * [Startup Project Ideas](http://paulgraham.com/startupideas.html)
   * [Featuers vs. Benefits](https://medium.com/early-stage/benefits-vs-features-e2b5c0d3c361)
+  
+* Optional:
+  * To further encourage learning of the material. We encourage each student to create a blog post for each week of the course. To help reduce the work required, try this technique.
+    * Write an overview of the main points covered for the (2) classes in the week
+    * Write an overview of your project activities and lessons learned you had in the week
 
 
 
