@@ -44,5 +44,13 @@ Monday | Wednesday
 10/19: Moving forward on your PM Path | 10/21:
 10/26: | 10/28: _**Last Class**_
 
+### First things First
+* Once you receive an email invitation from Slack, join our "gadcpdm7" team and add your photo.
+* Review course dates and advise instructors of planned missed days. (No more than 3 absentees for the course)
+* Create an account on [Github] (https://github.com) website. This will allow you to stay up todate on the added course documentation that the instructors will post on the github PDM7 repo.
+* Review course outline and get ready for the grand adventure of product management. 
 
+### Submission Forms
+* Class Feedback Form
+* Homework and project submissions
 
