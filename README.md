@@ -99,7 +99,7 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
 * [GA Class Exit Form] (HTTP://GA.CO/PDMTICKET)
 * Homework and project submissions
 <br>
-___
+
 
 ##Unit 1: Product Managment Fundementals
 
@@ -134,5 +134,3 @@ ___
 
 -->
 
-
-___
