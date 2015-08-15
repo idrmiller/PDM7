@@ -143,5 +143,13 @@ ___
 * [Top 12 Product Management Mistakes](http://www.khoslaventures.com/wp-content/uploads/The-Top-12-Product-Management-Mistakes.pdf)
 * 
 
+
+
+___
+### Quotes
+“Keep the focus on minimal product. More on this later, but your job as product manager is not to define the ultimate product, it’s to define the smallest possible product that will meet your goals.” 
+― Marty Cagan, Inspired: How To Create Products Customers Love
+* [Marty Cagan Quotes](https://www.goodreads.com/author/quotes/1405323.Marty_Cagan)
+
 -->
 
