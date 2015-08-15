@@ -21,9 +21,10 @@ This Product Management course will provide the skills:
 * Develop metrics to measure your success and make tough decisions
 * This is just to name a few
 
-| |Quotes by Industry Influencers |
+| |Quotes by Industry Influencers  |
 ---|---
-![Image of Ben Horowitz](https://github.com/idrmiller/PDM7/blob/master/imgs/BH_Photo.png) | _A good product manager is the CEO of the product. A good product manager takes full responsibility and measures themselves in terms of the success of the product. They are responsible for right product/right time and all that entails. Bad product managers have lots of excuses._    **---Ben Horowitz**
+![Image of Marty Cagan](https://github.com/idrmiller/PDM7/blob/master/imgs/MC_img.png) | _“Is my product compelling to our target customer? Have we made this product as easy to use as humanly possible? Will this product succeed against the competition? Not today’s competition, but the competition that will be in the market when we ship? Do I know customers who will really buy this product? Not the product I wish we were going to build, but what we’re really going to build? Is my product truly differentiated? Can I explain the differentiation to a company executive in two minutes? To a smart customer in one minute? To an industry analyst in 30 seconds?”_ 
+**― Marty Cagan, Inspired: How To Create Products Customers Love**
 <br>
 <br>
 <br>
@@ -122,6 +123,12 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
   * To further encourage learning of the material. We encourage each student to create a blog post for each week of the course. To help reduce the work required, try this technique.
     * Write an overview of the main points covered for the (2) classes in the week
     * Write an overview of your project activities and lessons learned you had in the week
+
+| |Quotes by Industry Influencers |
+---|---
+![Image of Ben Horowitz](https://github.com/idrmiller/PDM7/blob/master/imgs/BH_Photo.png) | _A good product manager is the CEO of the product. A good product manager takes full responsibility and measures themselves in terms of the success of the product. They are responsible for right product/right time and all that entails. Bad product managers have lots of excuses._    **---Ben Horowitz**
+<br>
+<br>
 
 <!--
 ###Class 2: Product Development Cycle
