@@ -53,7 +53,7 @@ Monday | Wednesday
 * **Pick a project idea** for the class. This essay by Paul Graham, ["How to Get Startup Ideas"](http://paulgraham.com/startupideas.html) will help. 
 * Once you receive an email invitation from Slack, join our "gadcpdm7" team and add your photo.
 * Review course dates and advise instructors of planned missed days. (No more than 2 absentees for the course)
-* Create an account on [Github] (https://github.com) website. This will allow you to stay up todate on the added course documentation that the instructors will post on the [Github PDM7 Repository] (https://github.com/idrmiller/PDM7).
+* Create an account on the [Github] (https://github.com) website. This will allow you to stay up to-date on the added course documentation that the instructors will post on the [Github PDM7 Repository] (https://github.com/idrmiller/PDM7).
 * Review course outline and get ready for the grand adventure of product management. 
 
 ### General Information
@@ -61,7 +61,7 @@ Monday | Wednesday
 - Instructors will encourage peer review of homework, (method TBD)
 - Feedback will be provide through Slack, in-class discussions, peer reviews, office hours, and one-on-one sceduled discussions.
 - Reading assignments will be assigned each week or for each class.
-- In an agile team fashion, we will have select a student conduct a 5 minute stand-up at the start of each class to provide updates on  Success, Roadblocks,  Lessons Learned, and Next steps.
+- Following agile methods, we will select a student at the beggining of the class to conduct a 5 minute stand-up to provide updates on their projects  Success, Roadblocks,  Lessons Learned, and Next steps.
 - The last 5 minutes of class will be dedicated to students completing the [Instructor Class Feedback Form](http://bit.ly/1J95D6p).
 
 ### PM Tool Kit
