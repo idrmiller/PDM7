@@ -23,8 +23,8 @@ This Product Management course will provide the skills:
 
 | |Quotes by Industry Influencers  |
 ---|---
-![Image of Marty Cagan](https://github.com/idrmiller/PDM7/blob/master/imgs/MC_img.png) | _“Is my product compelling to our target customer? Have we made this product as easy to use as humanly possible? Will this product succeed against the competition? Not today’s competition, but the competition that will be in the market when we ship? Do I know customers who will really buy this product? Not the product I wish we were going to build, but what we’re really going to build? Is my product truly differentiated? Can I explain the differentiation to a company executive in two minutes? To a smart customer in one minute? To an industry analyst in 30 seconds?”_ 
-**― Marty Cagan, Inspired: How To Create Products Customers Love**
+![Image of Marty Cagan](https://github.com/idrmiller/PDM7/blob/master/imgs/MC_img.png) | _“Is my product compelling to our target customer? Have we made this product as easy to use as humanly possible? Will this product succeed against the competition? Not today’s competition, but the competition that will be in the market when we ship? Do I know customers who will really buy this product? Not the product I wish we were going to build, but what we’re really going to build? Is my product truly differentiated? Can I explain the differentiation to a company executive in two minutes? To a smart customer in one minute? To an industry analyst in 30 seconds?”  **― Marty Cagan, Inspired: How To Create Products Customers Love**_ 
+
 <br>
 <br>
 <br>
