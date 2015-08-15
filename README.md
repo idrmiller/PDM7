@@ -13,7 +13,7 @@ _[David R. Miller] (https://www.linkedin.com/in/drmiller80)_ <br>
 **Method of Communication:** Email
 
 ### Welcome to Product Management 10-Week Course
-This course is designed to take the student through the full life cycle of product development and management. Product Management is a multi-disciplinary role that requires business skills (marketing, finance, business model etc.), technical understanding (the level of technical aptitude varies based on industry, sector, and role for the PM), deep knowledge of the user/customer (this concept is more holistic nature and references knowledge from UX/UI, persona development, user interviews, etc.).
+This course is designed to take the student through the full life cycle of product development and management. Product Management (PM) is a multi-disciplinary role that requires business skills (marketing, finance, business model etc.), technical understanding (the level of technical aptitude varies based on industry, sector, and role for the PM), deep knowledge of the user/customer (this concept is more holistic nature and references knowledge from UX/UI, persona development, user interviews, etc.).
 
 This Product Management course will provide the skills: 
 * To understand your users and analyze the market to build a product that is valuable, viable, and useable.
@@ -64,15 +64,24 @@ Monday | Wednesday
 - In an agile team fashion, we will have select a student conduct a 5 minute stand-up at the start of each class to provide updates on  Success, Roadblocks,  Lessons Learned, and Next steps.
 - The last 5 minutes of class will be dedicated to students completing the [Instructor Class Feedback Form](http://bit.ly/1J95D6p).
 
-### Tools
+### PM Tool Kit
+We will provide various tools that are in the PM's tool kit. This tool set will assist your efforts towards your final project.
 - Survey's & Forms:
   - Free: [Google forms](https://www.google.com/forms/about/)
+  - Free: Limited --- [Survey Monkey](https://www.surveymonkey.com/)
+  - Free: Limited --- [Typeform](http://www.typeform.com/)
   
 - Wireframing tool:
- - Free: [Google Slides]
+ - Free: [Google Slides](https://www.google.com/slides/about/)
  - Free: [Framebox](http://framebox.org/)
  - Free: Mac computers: [Keynote](https://www.apple.com/mac/keynote/)
  - Trial: Free for (30) days.[Balsamiq](https://balsamiq.com/products/mockups/)
+ - Trial: Mac computers: [Sketch](http://bohemiancoding.com/sketch/) **---"Very Popular in the design community"**
+ 
+- Idea Testing
+  - Free: [LaunchRock](https://www.launchrock.com/)
+  - Trial: Landing Pages & A/B Testing [Unbounce](http://unbounce.com/)
+
 
 ### Submission Forms
 * [Instructor Class Feedback Form] (http://bit.ly/1J95D6p)
