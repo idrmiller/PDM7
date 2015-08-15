@@ -99,6 +99,7 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
 * [GA Class Exit Form] (HTTP://GA.CO/PDMTICKET)
 * Homework and project submissions
 <br>
+<br>
 
 
 ##Unit 1: Product Managment Fundementals
@@ -122,9 +123,19 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
     * Write an overview of the main points covered for the (2) classes in the week
     * Write an overview of your project activities and lessons learned you had in the week
 
+<!--
+###Class 2: Product Development Cycle
+* Product Life Cycle
+* Product Development Cycle
+* Product Development Process
 
+####Homework:
+* Reading:
+  * [Six Myths of product development](https://hbr.org/2012/05/six-myths-of-product-development)
+  * [Apple's Product Development Process](http://thenextweb.com/apple/2012/01/24/this-is-how-apples-top-secret-product-development-process-works/)
+  *
 
-
+-->
 
 ___
 <!--
