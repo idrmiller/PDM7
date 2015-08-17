@@ -5,7 +5,7 @@ Course materials for [General Assembly's Product Managment course](https://gener
 **Instructor:** 
 _[Andy Acs] (https://www.linkedin.com/in/andyacs)_<br>
 **Office Hours:** TBD <br>
-**Method of Communication:** Email
+**Method of Communication:** Slack (preferred) or email (andyacs@gmail.com)
 
 **Instructor:** 
 _[David R. Miller] (https://www.linkedin.com/in/drmiller80)_ <br>
