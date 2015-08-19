@@ -143,7 +143,24 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
   * [Apple's Product Development Process](http://thenextweb.com/apple/2012/01/24/this-is-how-apples-top-secret-product-development-process-works/)
   *
 
+<!--
+###Class 3: Customer Development
+*Introduction to Customer Development
+*Finding Your Customer
+*Interviewing Users
+
+###Homework:
+* Activity:
+  *  Now that you have some basic knowledge on Customer Development, begin speaking with potential users in the market for your product. Over the course of the class, you should aim to speak with 20 different people (~ 2 per week). Keep thorough notes and prepare to discuss your findings throughout the course of the class.
+* Reading:
+  * [My Best Advice for Conducting User Interviews](https://whitneyhess.com/blog/2010/07/07/my-best-advice-for-conducting-user-interviews/) - A really good quick resource on how to start speaking with customers
+  * [How we validated our SaaS product without building it](http://blog.sendwithus.com/how-we-validated/) - One of my favorite articles that explains how to get real feedback on ideas without building real products.
+
+* Video:
+  * [Dropbox MVP Video](https://www.youtube.com/watch?v=7QmCUDHpNzE) - The MVP fakeout that started it all.
 | |Quotes by Industry Influencers |
+ 
+ -->
 ---|---
 ![Image of Steve Jobs](https://github.com/idrmiller/PDM7/blob/master/imgs/stevejobsbig.png) | _When we create stuff, we do it because we listen to the customer, get their inputs and also throw in what we’d like to see, too. We cook up new products. You never really know if people will love them as much as you do._    **---Steve Jobs**
 ___
