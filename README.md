@@ -132,7 +132,6 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
 <br>
 <br>
 
-<!--
 ###Class 2: Product Development Cycle
 * Product Life Cycle
 * Product Development Cycle
@@ -144,9 +143,13 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
   * [Apple's Product Development Process](http://thenextweb.com/apple/2012/01/24/this-is-how-apples-top-secret-product-development-process-works/)
   *
 
--->
-
+<!--
+| |Quotes by Industry Influencers |
+---|---
+![Image of Steve Jobs]() | _When we create stuff, we do it because we listen to the customer, get their inputs and also throw in what we’d like to see, too. We cook up new products. You never really know if people will love them as much as you do._    **---Steve Jobs**
 ___
+
+-->
 <!--
 ### Reading Material
 * [Top 12 Product Management Mistakes](http://www.khoslaventures.com/wp-content/uploads/The-Top-12-Product-Management-Mistakes.pdf)
@@ -160,5 +163,49 @@ ___
 ― Marty Cagan, Inspired: How To Create Products Customers Love
 * [Marty Cagan Quotes](https://www.goodreads.com/author/quotes/1405323.Marty_Cagan)
 
+
+“If you are not embarrassed by the first version of your product, you’ve launched too late.”
+– Reid Hoffman, LinkedIn
+
+“Make every detail perfect and limit the number details to perfect.”
+– Jack Dorsey, Square
+
+“If you keep your eye on the profit, you’re going to skimp on the product. But if you focus on making really great products, then the profits will follow.”
+– Steve Jobs
+
+“If you continue to improve a product enough, you’ll eventually ruin it.”
+– David Pogue, the New York Times
+
+“Management is doing things right; leadership is doing the right things.”
+– Peter F. Drucker
+
+“Be stubborn on vision but flexible on details”
+– Jeff Bezos
+
+“Take ice. Ice is fascinating to me. Ice is the one thing in our world that went from an agricultural product to being manufactured.”
+– Alton Brown
+
+“The details are details. They make the product. The connections, the connections, the connections. It will in the end be these details that give the product its life.”
+– Charles Eames
+
+“Roadmaps are evidence of strategy. Not a list of features.”
+– Steve Johnson
+
+
+
+___
+###Other General Stuff
+
+Some S*** Product Managers Say
+
+“We need to ‘WOW’ the competition.”
+
+“That’s on our roadmap.”
+
+“So, do we push the release date for this?”
+
+“No, I’m not a ‘Project Manager’…”
+
+“Get out of the building.”
 -->
 
