@@ -141,7 +141,7 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
 * Reading:
   * [Six Myths of product development](https://hbr.org/2012/05/six-myths-of-product-development)
   * [Apple's Product Development Process](http://thenextweb.com/apple/2012/01/24/this-is-how-apples-top-secret-product-development-process-works/)
-  *
+  * [My Best Advice for Conducting User Interviews](https://whitneyhess.com/blog/2010/07/07/my-best-advice-for-conducting-user-interviews/)
 
 | |Quotes by Industry Influencers |
 ---|---
