@@ -144,9 +144,9 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
   * [My Best Advice for Conducting User Interviews](https://whitneyhess.com/blog/2010/07/07/my-best-advice-for-conducting-user-interviews/)
 
 ###Class 3: Customer Development
-*Introduction to Customer Development
-*Finding Your Customer
-*Interviewing Users
+* Introduction to Customer Development
+* Finding Your Customer
+* Interviewing Users
 
 ###Homework:
 * Activity:
