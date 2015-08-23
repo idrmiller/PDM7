@@ -143,7 +143,6 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
   * [Apple's Product Development Process](http://thenextweb.com/apple/2012/01/24/this-is-how-apples-top-secret-product-development-process-works/)
   * [My Best Advice for Conducting User Interviews](https://whitneyhess.com/blog/2010/07/07/my-best-advice-for-conducting-user-interviews/)
 
-<!--
 ###Class 3: Customer Development
 *Introduction to Customer Development
 *Finding Your Customer
@@ -165,7 +164,6 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
 ![Image of Steve Jobs](https://github.com/idrmiller/PDM7/blob/master/imgs/stevejobsbig.png) | _When we create stuff, we do it because we listen to the customer, get their inputs and also throw in what we’d like to see, too. We cook up new products. You never really know if people will love them as much as you do._    **---Steve Jobs**
 ___
 
--->
 <!--
 ### Reading Material
 * [Top 12 Product Management Mistakes](http://www.khoslaventures.com/wp-content/uploads/The-Top-12-Product-Management-Mistakes.pdf)
