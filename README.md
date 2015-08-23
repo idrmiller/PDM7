@@ -143,7 +143,47 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
   * [Apple's Product Development Process](http://thenextweb.com/apple/2012/01/24/this-is-how-apples-top-secret-product-development-process-works/)
   * [My Best Advice for Conducting User Interviews](https://whitneyhess.com/blog/2010/07/07/my-best-advice-for-conducting-user-interviews/)
 
-###Class 3: Customer Development
+| |Quotes by Industry Influencers |
+---|---
+![Image of Steve Jobs](https://github.com/idrmiller/PDM7/blob/master/imgs/stevejobsbig.png) | _When we create stuff, we do it because we listen to the customer, get their inputs and also throw in what we’d like to see, too. We cook up new products. You never really know if people will love them as much as you do._    **---Steve Jobs**
+
+___
+
+###Class 3: Testing & Validating Your Idea
+* Each student will provide a 30 sec. update on feedback received from discussions on your project idea.
+* Define Product/ Market Fit
+* Finding Product/Market fit
+* Minimal viable products (what they are and not)
+
+####Homework
+* **Activity (1):** Create an experiment to test your idea
+  * Write out the following:
+    * What is the problem you are solving?
+    * Who is your customer?
+    * What is your riskiest assumptions?
+    * How would you test that riskiest assumption?
+    * What would you measure!
+* **Activity (2):** Run your experiment with (5) new people and the (5) previous people you discussed your idea with.
+* **Activity (3):** Be prepared to discuss what you learned in your 30sec update for the following Monday class. 
+
+* **Reading:**
+  * [MVP, It's about smart learning](http://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
+  * [Pass Fail Experiments - Video](https://vimeo.com/groups/204136/videos/87302754)
+  * Amazon Mechanical Turk for experiments [Overview](http://www.princeton.edu/~psrc/mturk.html), [Detail](http://sjdm.org/~baron/journal/10/10630a/jdm10630a.pdf)
+  * [The Lean Experimentation Approach](http://www.alexandercowan.com/creating-a-lean-startup-style-assumption-set/)
+
+####Optional
+* **Blog Post Week 2:** By this point if you have decided to start the journaling process for your blog, you should have at least (1) post. This week it would be cool if you share some of your knowledge on the feedback you received, lessons learned in pitching your idea, and start sharing the experiment you plan to conduct this week. Share your post with the class in SLACK.
+* **Recommended Books:**
+  * [Lean Startup by Eric Reis:](http://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1?s=books&ie=UTF8&qid=1440356113&sr=1-1&keywords=lean+startup)
+  * [Running Lean by Ash Maurya:](http://www.amazon.com/Running-Lean-Iterate-Works-Series/dp/1449305172)
+
+| |Quotes by Industry Influencers |
+---|---
+![Image of Steve Blank](https://github.com/idrmiller/PDM7/blob/master/imgs/steveblank_img.png) | _"You're selling the vision and delivering the minimum feature set to visionaries, not everyone."_    **---Steve Blank**
+
+<!--
+###Class 4: Customer Development
 * Introduction to Customer Development
 * Finding Your Customer
 * Interviewing Users
@@ -157,11 +197,8 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
 
 * Video:
   * [Dropbox MVP Video](https://www.youtube.com/watch?v=7QmCUDHpNzE) - The MVP fakeout that started it all.
+-->
 
-| |Quotes by Industry Influencers |
----|---
-![Image of Steve Jobs](https://github.com/idrmiller/PDM7/blob/master/imgs/stevejobsbig.png) | _When we create stuff, we do it because we listen to the customer, get their inputs and also throw in what we’d like to see, too. We cook up new products. You never really know if people will love them as much as you do._    **---Steve Jobs**
-___
 
 <!--
 ### Reading Material
