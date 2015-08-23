@@ -138,7 +138,10 @@ ___
 * Product Development Process
 
 ####Homework:
-* Reading:
+* **Activity (1):**Provide a writeup of your 30sec project idea in the SLACK tool under #assignment.
+* **Activity (2):** Discuss your project idea with (5) people
+* **Activity (3):** Be prepared to discuss your discussion feedback in a 30sec update next Class.
+* **Reading:**
   * [Six Myths of product development](https://hbr.org/2012/05/six-myths-of-product-development)
   * [Apple's Product Development Process](http://thenextweb.com/apple/2012/01/24/this-is-how-apples-top-secret-product-development-process-works/)
   * [My Best Advice for Conducting User Interviews](https://whitneyhess.com/blog/2010/07/07/my-best-advice-for-conducting-user-interviews/)
