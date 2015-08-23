@@ -131,7 +131,7 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
 ![Image of Ben Horowitz](https://github.com/idrmiller/PDM7/blob/master/imgs/BH_Photo.png) | _A good product manager is the CEO of the product. A good product manager takes full responsibility and measures themselves in terms of the success of the product. They are responsible for right product/right time and all that entails. Bad product managers have lots of excuses._    **---Ben Horowitz**
 <br>
 <br>
-
+___
 ###Class 2: Product Development Cycle
 * Product Life Cycle
 * Product Development Cycle
@@ -146,7 +146,8 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
 | |Quotes by Industry Influencers |
 ---|---
 ![Image of Steve Jobs](https://github.com/idrmiller/PDM7/blob/master/imgs/stevejobsbig.png) | _When we create stuff, we do it because we listen to the customer, get their inputs and also throw in what we’d like to see, too. We cook up new products. You never really know if people will love them as much as you do._    **---Steve Jobs**
-
+<br>
+<br>
 ___
 
 ###Class 3: Testing & Validating Your Idea
