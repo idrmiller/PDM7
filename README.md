@@ -157,9 +157,8 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
 
 * Video:
   * [Dropbox MVP Video](https://www.youtube.com/watch?v=7QmCUDHpNzE) - The MVP fakeout that started it all.
+
 | |Quotes by Industry Influencers |
- 
- -->
 ---|---
 ![Image of Steve Jobs](https://github.com/idrmiller/PDM7/blob/master/imgs/stevejobsbig.png) | _When we create stuff, we do it because we listen to the customer, get their inputs and also throw in what we’d like to see, too. We cook up new products. You never really know if people will love them as much as you do._    **---Steve Jobs**
 ___
