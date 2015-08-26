@@ -35,20 +35,21 @@ Monday | Wednesday
 **UNIT 1: Product Managment Fundementals** |
 8/17: Introduction to Product Management | 8/19: The Product Development Process
 **UNIT 2: Getting to Product/Market Fit** | 
-8/24: Customer Development | 8/26: Testing & Validating/Minimum Viable Product
+8/24: Testing & Validating/Minimum Viable Product  | 8/26: Customer Development 
 8/31: Business Model Design | 9/02: Market Research
 **UNIT 3: UX Design** | 
-9/07: Personals & Empathy Maps _**Holiday ???**_ | 9/09: Features & User Stories
-9/14: Wireframing & Storyboarding | 9/16: _**Mid-Course Presentation**_
+9/07:  _**Holiday**_ | 9/09: Personals & Empathy Maps 
+9/14: Features & User Stories  | 9/16: Wireframing & Storyboarding 
+**MID-COURSE Presentation** |
+9/21: _**Mid-Course Presentation**_ | 9/23: _**Mid-Course Presentation**_
 **UNIT 4: Business Fundementals** | 
-9/21: Metrics | 9/23: Pricing & Financial Modeling
+9/28: Metrics | 9/30: Pricing & Financial Modeling
 **UNIT 5: Communicating with Stakeholders** |
-9/28: _**Flex Session**_ | 9/30: Technology for Product Managers
-10/05: Product Roadmap | 10/07: Project Management & Product Specs
+9/05: _**Flex Session**_ | 9/07: Technology for Product Managers
+10/12: Product Roadmap | 10/14: Project Management & Product Specs
 **UNIT 6 Presentations & Next Steps** |
- 10/12: Presenting your Product | 10/14: _**Final Presentations**_
-10/19: Moving forward on your PM Path | 10/21:
-10/26: | 10/28: _**Last Class**_
+ 10/19: Presenting your Product | 10/21: _**Final Presentations**_
+10/26: _**Final Presentations**_ | 10/28: Moving forward on your PM Path _**Last Class**_
 
 ### First things First
 * **Pick a project idea** for the class. This essay by Paul Graham, ["How to Get Startup Ideas"](http://paulgraham.com/startupideas.html) will help. 
