@@ -187,7 +187,6 @@ ___
 ---|---
 ![Image of Steve Blank](https://github.com/idrmiller/PDM7/blob/master/imgs/steveblank_img.png) | _"You're selling the vision and delivering the minimum feature set to visionaries, not everyone."_    **---Steve Blank**
 
-<!--
 ###Class 4: Customer Development
 * Introduction to Customer Development
 * Finding Your Customer
@@ -202,7 +201,6 @@ ___
 
 * Video:
   * [Dropbox MVP Video](https://www.youtube.com/watch?v=7QmCUDHpNzE) - The MVP fakeout that started it all.
--->
 
 
 <!--
