@@ -202,6 +202,20 @@ ___
 * Video:
   * [Dropbox MVP Video](https://www.youtube.com/watch?v=7QmCUDHpNzE) - The MVP fakeout that started it all.
 
+###Class 5: Business Model Design
+* Business Model Canvas
+* Lean Business Model Canvas
+* Common Business Models
+
+###Homework
+* Attempt to fill out the traditional and lean canvases for your product. Ask yourself:
+  * What truly is my unfair advantage? If I don't have one now, how do I acquire one?
+  * WHat are the biggest holes in my business model? How can I validate these through customer research and my MVP?
+
+* Reading
+  * [14 Ways to Apply the Business Model Canvas](http://blog.strategyzer.com/posts/2015/3/23/14-ways-to-apply-the-business-model-canvas) - Interesting article about different corporate challenges the BMC can be applied to.
+  * [Why Lean Canvas vs Business Model Canvas?](http://leanstack.com/why-lean-canvas/) - Comparison of Lean Canvas vs Business Model Canvas
+  * [A Closer Look At Personas: What They Are And How They Work (Part 1)](http://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/) - Pre-reading for next class on Personas.
 
 <!--
 ### Reading Material
