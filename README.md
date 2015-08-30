@@ -219,7 +219,7 @@ ___
 
 | |Quotes by Industry Influencers  |
 ---|---
-![Image of Ash Maurya](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRxqFQoTCN_fw_rf0ccCFcR5PgodROENJg&url=https%3A%2F%2Ftwitter.com%2Fashmaurya&ei=c3XjVa25DoTu-AGY8LqoAg&psig=AFQjCNFkLxizOUkwuVOeLBOsFDbxk0058w&ust=1441056505503356) | _““Startups that succeed are those that manage to iterate enough times before running out of resources.”  **― Ash Maurya, Running Lean: Iterate from Plan A to a Plan That Works**_ 
+![Image of Ash Maurya](http://www.sintetia.com/wp-content/uploads/2012/10/ash.jpeg) | _“Startups that succeed are those that manage to iterate enough times before running out of resources.”  **― Ash Maurya, Running Lean: Iterate from Plan A to a Plan That Works**_ 
 
 <!--
 ### Reading Material
