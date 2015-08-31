@@ -84,6 +84,7 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
 * **Idea Testing**
   - Free: [LaunchRock](https://www.launchrock.com/)
   - Trial: Landing Pages & A/B Testing [Unbounce](http://unbounce.com/)
+  - Minimal Cost: [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome)
 
 <!--
 - ** Technical **
