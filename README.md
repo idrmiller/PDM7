@@ -69,19 +69,19 @@ Monday | Wednesday
 ### PM Tool Kit
 We will provide various tools that are in the PM's tool kit. This tool set will assist your efforts towards your final project.
 
-- ** Survey's & Forms: **
+* **Survey's & Forms:**
   - Free: [Google forms](https://www.google.com/forms/about/)
   - Free: Limited --- [Survey Monkey](https://www.surveymonkey.com/)
   - Free: Limited --- [Typeform](http://www.typeform.com/)
   
-- ** Wireframing tool: **
+* **Wireframing tool:**
  - Free: [Google Slides](https://www.google.com/slides/about/)
  - Free: [Framebox](http://framebox.org/)
  - Free: Mac computers: [Keynote](https://www.apple.com/mac/keynote/)
  - Trial: Free for (30) days.[Balsamiq](https://balsamiq.com/products/mockups/)
  - Trial: Mac computers: [Sketch](http://bohemiancoding.com/sketch/) **---"Very Popular in the design community"**
  
-- ** Idea Testing **
+* **Idea Testing**
   - Free: [LaunchRock](https://www.launchrock.com/)
   - Trial: Landing Pages & A/B Testing [Unbounce](http://unbounce.com/)
 
