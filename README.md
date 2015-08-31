@@ -217,6 +217,9 @@ ___
   * [Why Lean Canvas vs Business Model Canvas?](http://leanstack.com/why-lean-canvas/) - Comparison of Lean Canvas vs Business Model Canvas
   * [A Closer Look At Personas: What They Are And How They Work (Part 1)](http://www.smashingmagazine.com/2014/08/a-closer-look-at-personas-part-1/) - Pre-reading for next class on Personas.
 
+* Extra
+  * [Startup Podcast](https://gimletmedia.com/show/startup/)
+
 | |Quotes by Industry Influencers  |
 ---|---
 ![Image of Ash Maurya](http://www.sintetia.com/wp-content/uploads/2012/10/ash.jpeg) | _“Startups that succeed are those that manage to iterate enough times before running out of resources.”  **― Ash Maurya, Running Lean: Iterate from Plan A to a Plan That Works**_ 
