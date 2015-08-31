@@ -68,7 +68,7 @@ Monday | Wednesday
 
 ### PM Tool Kit
 We will provide various tools that are in the PM's tool kit. This tool set will assist your efforts towards your final project.
-<!--
+
 - ** Survey's & Forms: **
   - Free: [Google forms](https://www.google.com/forms/about/)
   - Free: Limited --- [Survey Monkey](https://www.surveymonkey.com/)
@@ -85,6 +85,7 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
   - Free: [LaunchRock](https://www.launchrock.com/)
   - Trial: Landing Pages & A/B Testing [Unbounce](http://unbounce.com/)
 
+<!--
 - ** Technical **
   - Intro to HTML:
   - Intro to Javascript:
@@ -94,7 +95,6 @@ We will provide various tools that are in the PM's tool kit. This tool set will 
   
 - ** Project Management **
   - 
-
 -->
 ### Submission Forms
 * [Instructor Class Feedback Form] (http://bit.ly/1J95D6p)
