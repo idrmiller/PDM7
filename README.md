@@ -187,6 +187,9 @@ ___
 | |Quotes by Industry Influencers |
 ---|---
 ![Image of Steve Blank](https://github.com/idrmiller/PDM7/blob/master/imgs/steveblank_img.png) | _"You're selling the vision and delivering the minimum feature set to visionaries, not everyone."_    **---Steve Blank**
+<br>
+<br>
+___
 
 ###Class 4: Customer Development
 * Introduction to Customer Development
@@ -202,6 +205,9 @@ ___
 
 * Video:
   * [Dropbox MVP Video](https://www.youtube.com/watch?v=7QmCUDHpNzE) - The MVP fakeout that started it all.
+<br>
+<br>
+___
 
 ###Class 5: Business Model Design
 * Business Model Canvas
@@ -224,6 +230,9 @@ ___
 | |Quotes by Industry Influencers  |
 ---|---
 ![Image of Ash Maurya](http://www.sintetia.com/wp-content/uploads/2012/10/ash.jpeg) | _“Startups that succeed are those that manage to iterate enough times before running out of resources.”  **― Ash Maurya, Running Lean: Iterate from Plan A to a Plan That Works**_ 
+<br>
+<br>
+___
 
 ###Class 6: Market Research
 * Strengths, Weaknesses, Opportunities, Threats (SWOT) Analysis
@@ -246,7 +255,7 @@ ___
 
 | |Quotes by Industry Influencers  |
 ---|---
-![Image of Ash Maurya](http://www.sintetia.com/wp-content/uploads/2012/10/ash.jpeg) | _“Startups that succeed are those that manage to iterate enough times before running out of resources.”  **― Ash Maurya, Running Lean: Iterate from Plan A to a Plan That Works**_ 
+![Image of Peter Theil](https://github.com/idrmiller/PDM7/blob/master/imgs/thielx299.jpg) | _“Customers won’t care about any particular technology unless it solves a particular problem in a superior way. And if you can’t monopolize a unique solution for a small market, you’ll be stuck with vicious competition.”  **― Peter Theil, Zero to One**_ 
 
 
 <!--
