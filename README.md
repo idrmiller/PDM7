@@ -257,29 +257,6 @@ ___
 ---|---
 ![Image of Peter Theil](https://github.com/idrmiller/PDM7/blob/master/imgs/thielx299.jpg) | _“Customers won’t care about any particular technology unless it solves a particular problem in a superior way. And if you can’t monopolize a unique solution for a small market, you’ll be stuck with vicious competition.”  **― Peter Theil, Zero to One**_ 
 
-###Class 6: Market Research
-* Strengths, Weaknesses, Opportunities, Threats (SWOT) Analysis
-* Competitive analysis (feature or business)
-* Market sizing
-
-###Homework
-* Conduct a competitive analysis for your product
-* Use SWOT or Competition Analysis spreadsheet to assess competition and strengths of your product/business
-* Size the market of your product
-* Conduct a simple analysis of the size of the market for your product
-
-* Reading
-* [Looking Outside for Threats and Opportunities](https://inside.artcenter.edu/ed/file.php/26283/SWOT_Analysis_1_Loooking_Outside.pdf) - A write up from the Harvard Business Review on the technique of using the SWOT to identify threats and opportunities. 
-* [SWOT Analysis Overview](http://formswift.com/swot-analysis-guide)
-* [Uber SWOT Example](http://pestleanalysis.com/swot-analysis-for-uber/)
-* [Competitive Profile Matrix](http://www.strategicmanagementinsight.com/tools/competitive-profile-matrix-cpm.html) - Provides a more technical deep dive for those of you looking for a bit more on competitive analysis techniques.
-* [Market Sizing](http://ultralightstartups.com/wp-content/uploads/2012/04/Steve-Blank-Market-Sizing.pdf) -- great read to get the full scope of market sizing and how it relates to the business model canvas.
-
-
-| |Quotes by Industry Influencers  |
----|---
-![Image of Peter Theil](https://github.com/idrmiller/PDM7/blob/master/imgs/thielx299.jpg) | _“Customers won’t care about any particular technology unless it solves a particular problem in a superior way. And if you can’t monopolize a unique solution for a small market, you’ll be stuck with vicious competition.”  **― Peter Theil, Zero to One**_ 
-
 ###Class 7: Personas and Empathy Maps   
 * Refresh on Interviews
 * Creating User Personas
