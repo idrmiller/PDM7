@@ -251,6 +251,7 @@ ___
   * [Uber SWOT Example](http://pestleanalysis.com/swot-analysis-for-uber/)
   * [Competitive Profile Matrix](http://www.strategicmanagementinsight.com/tools/competitive-profile-matrix-cpm.html) - Provides a more technical deep dive for those of you looking for a bit more on competitive analysis techniques.
   * [Market Sizing](http://ultralightstartups.com/wp-content/uploads/2012/04/Steve-Blank-Market-Sizing.pdf) -- great read to get the full scope of market sizing and how it relates to the business model canvas.
+  * [Zillow Total Addressable Market](http://files.shareholder.com/downloads/ABEA-6AA1JU/3169155524x0x649710/f10bfc92-44c0-4ce2-9318-342882437365/Real_Estate_Premier_Agent_.pdf) -- a filing from Zillow's 10-K where they explain their market size through 3 different tactics.
 
 
 | |Quotes by Industry Influencers  |
