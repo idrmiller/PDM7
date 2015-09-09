@@ -267,7 +267,7 @@ ___
 * Create a comparative empathy map for your different personas.
 * Work on your mid-term!
 
-* Reading
+###Reading
 * [Write a Great User Story](https://help.rallydev.com/writing-great-user-story) - A great explanation of user stories, including the INVEST rule
 * [5 Common Mistakes We Make Writing User Stories](https://www.scrumalliance.org/community/articles/2011/august/5-common-mistakes-we-make-writing-user-stories)
 
