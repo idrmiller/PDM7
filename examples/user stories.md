@@ -37,7 +37,7 @@ As an authenticated iOS user that has not requested a ride, I want to be able to
  2. Market-enabled services that are not operating at the current time should be ghosted out and unselectable by the user.
  3. When the user selects a new service, the Map View and Estimated Time should refresh.
 
-###See Drivera on Map
+###See Drivers on Map
 As an authenticated iOS user that has not requested a ride, I want to see nearby cars on the map so I can better understand and track the location of drivers.
 
 **Acceptance Criteria**
