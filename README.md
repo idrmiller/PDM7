@@ -16,6 +16,7 @@ _[David R. Miller] (https://www.linkedin.com/in/drmiller80)_ <br>
 * [Getting Started Info](https://github.com/idrmiller/PDM7/wiki/1.-Getting-Started-Info)
 * [Class Schedule](https://github.com/idrmiller/PDM7/wiki/2.-PDM7-Class-Schedule)
 * [Product Managers Toolkit](https://github.com/idrmiller/PDM7/wiki/3.-PM-Tool-Kit)
+* [Mid-Term Tracker](https://github.com/idrmiller/PDM7/blob/master/Extra/GA%20PDM%20Final%20Project%20Tracker-1.xlsx)
 
 ###Class Content Pages
 
