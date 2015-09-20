@@ -29,6 +29,7 @@ _[David R. Miller] (https://www.linkedin.com/in/drmiller80)_ <br>
 * [Class 7: Personas and Empathy Maps](https://github.com/idrmiller/PDM7/wiki/Class-7:-Personas-and-Empathy-Maps)
 * [Class 8: Features and User Stories](https://github.com/idrmiller/PDM7/wiki/Class-8:-Features-and-User-Stories)
 * [Class 9: Wireframes and Story Boards](https://github.com/idrmiller/PDM7/wiki/Class-9---Wireframes-and-Story-Boards)
+* [Mid-Term Presentations](https://github.com/idrmiller/PDM7/wiki/4.-Mid-Term-Presentations)
 
 
 ### Welcome to Product Management 10-Week Course
