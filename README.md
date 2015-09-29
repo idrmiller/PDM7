@@ -30,6 +30,8 @@ _[David R. Miller] (https://www.linkedin.com/in/drmiller80)_ <br>
 * [Class 8: Features and User Stories](https://github.com/idrmiller/PDM7/wiki/Class-8:-Features-and-User-Stories)
 * [Class 9: Wireframes and Story Boards](https://github.com/idrmiller/PDM7/wiki/Class-9---Wireframes-and-Story-Boards)
 * [Mid-Term Presentations](https://github.com/idrmiller/PDM7/wiki/4.-Mid-Term-Presentations)
+* [Class 11: Technology for Product Managers](https://github.com/idrmiller/PDM7/blob/master/slides/Class%2011%20-%20Technology%20for%20Product%20Managers.pdf)
+
 
 
 ### Welcome to Product Management 10-Week Course
