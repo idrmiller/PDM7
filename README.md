@@ -31,8 +31,9 @@ _[David R. Miller] (https://www.linkedin.com/in/drmiller80)_ <br>
 * [Class 9: Wireframes and Story Boards](https://github.com/idrmiller/PDM7/wiki/Class-9---Wireframes-and-Story-Boards)
 * [Mid-Term Presentations](https://github.com/idrmiller/PDM7/wiki/4.-Mid-Term-Presentations)
 * [Class 11: Technology for Product Managers](https://github.com/idrmiller/PDM7/blob/master/slides/Class%2011%20-%20Technology%20for%20Product%20Managers.pdf)
-* [Class 12: Financial Modeling]
+* [Class 12: Financial Modeling - Guest Lecturer]
 * [Class 13: Product Roadmaps](https://github.com/idrmiller/PDM7/wiki/Class-13:-Product-Roadmaps)
+* [Class 14: UX Going Deeper - Guest Lecturer](https://github.com/idrmiller/PDM7/wiki/Class-14:-UX-Going-Deeper)
 
 
 
