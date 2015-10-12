@@ -13,9 +13,9 @@ _[David R. Miller] (https://www.linkedin.com/in/drmiller80)_ <br>
 **Method of Communication:** Slack (preferred) or email (idrmiller360@gmail.com)
 
 ###General Information
-* [Getting Started Info](https://github.com/idrmiller/PDM7/wiki/1.-Getting-Started-Info)
-* [Class Schedule](https://github.com/idrmiller/PDM7/wiki/2.-PDM7-Class-Schedule)
-* [Product Managers Toolkit](https://github.com/idrmiller/PDM7/wiki/3.-PM-Tool-Kit)
+* [Getting Started Info](https://github.com/idrmiller/PDM7/wiki/01.-Getting-Started-Info)
+* [Class Schedule](https://github.com/idrmiller/PDM7/wiki/02.-PDM7-Class-Schedule)
+* [Product Managers Toolkit](https://github.com/idrmiller/PDM7/wiki/03.-PM-Tool-Kit)
 * [Mid-Term Tracker](https://github.com/idrmiller/PDM7/blob/master/Extra/GA%20PDM%20Final%20Project%20Tracker-1.xlsx)
 
 ###Class Content Pages
